@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**martinvruiz/martinvruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Martín Ruiz
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about building modern, fast and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** React.js, React Native, Next.js, Vite, Tailwind CSS
+- **State Management:** Zustand, Context API
+- **Backend:** Node.js (learning), Supabase
+- **Tools & Other:** Git, GitHub, Figma, Netlify, Vercel
+
+## 🛠️ Projects
+
+Here are a few projects I've worked on:
+
+- **[Financer](https://github.com/martinvruiz/financer)** — A personal finance tracker with income/expense logging.
+- **[GymNotes](https://github.com/martinvruiz/gymnotes)** — A minimalist app to record gym workouts and notes.
+- **[ProjectManager](https://github.com/martinvruiz/projectmanager)** — A project and task management app with calendar and Supabase integration.
+
+You can find more in my [repositories](https://github.com/martinvruiz?tab=repositories)!
+
+## 📚 Learning
+
+Currently learning:
+
+- Node.js & Express
+- API development
+- Better testing and deployment practices
+
+## 📫 Contact
+
+- Email: martinvruiz.dev@gmail.com  
+- LinkedIn: [martinvruiz](https://linkedin.com/in/martinvruiz)
+
+---
+
+Thanks for visiting my profile!
