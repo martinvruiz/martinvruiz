@@ -32,8 +32,9 @@ Currently learning:
 
 ## 📫 Contact
 
-- Email: martinvruiz.dev@gmail.com  
+- Email: martinevruiz10@gmail.com
 - LinkedIn: [martinvruiz](https://linkedin.com/in/martinvruiz)
+- Portfolio: https://martinvruiz.is-a.dev/
 
 ---
 
